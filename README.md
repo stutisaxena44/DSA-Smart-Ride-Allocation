@@ -412,14 +412,6 @@ How each screenshot maps to a piece of implemented functionality:
 
 ---
 
-## 📄 License
-
-This project is released under the **MIT License** — free to use, modify, and distribute with attribution.
-
-> ⚠️ **Assumption:** No license file was present in the original submission. MIT is recommended here as a sensible default for an academic / portfolio project. Add a `LICENSE` file to make it official, or swap in the license of your choice.
-
----
-
 ## 👩‍💻 Author
 
 <div align="center">
